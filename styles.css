@@ -1,0 +1,29 @@
+
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+@media (max-width: 576px) {
+    .table {
+        margin-top: 0;
+    }
+}
+
+.btn {
+    margin-bottom: 3px;
+    margin-right: 5px;
+    margin-bottom: 1rem;
+    
+}
